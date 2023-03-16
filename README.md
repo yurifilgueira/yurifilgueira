@@ -11,4 +11,4 @@
 <div align="center">
   <a href="https://github.com/yurifilgueira">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yurifilgueira&theme=algolia&show_icons=true&include_all_commits=true&count_private=true&hide_border=false"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurifilgueira&layout=compact&langs_count=7&theme=gotham&hide_border=false"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurifilgueira&layout=compact&theme=algolia&langs_count=7&hide_border=false"/>
