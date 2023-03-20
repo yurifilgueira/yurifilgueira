@@ -2,7 +2,7 @@
 
 # Yuri Filgueira💻
 
-<img src="https://user-images.githubusercontent.com/65134854/226449357-4b813c5e-2183-45b4-a5e0-d095deb22783.png"/>
+<img src="https://user-images.githubusercontent.com/65134854/226446159-30476eaa-be34-4d7c-8546-52bbe0218d4f.png"/>
 
 ---
 
