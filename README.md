@@ -26,7 +26,7 @@
 # Stats📊
 <div align="center">
   <a href="https://github.com/yurifilgueira">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yurifilgueira&icon_color=bd001f&bg_color=08060a&text_color=a8b5e8&title_color=b3d5f9&theme=algolia&show_icons=true&include_all_commits=true&count_private=true&hide_border=false"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yurifilgueira&icon_color=bd001f&bg_color=08060a&text_color=a8b5e8&title_color=b3d5f9&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&hide_border=false"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurifilgueira&bg_color=08060a&text_color=a8b5e8&title_color=b3d5f9&layout=compact&theme=algolia&langs_count=7&hide_border=false"/>
 
 # Socials👥
